@@ -9,8 +9,8 @@
   说明使用什么数据、分析哪些变量、如何计算 ToE 和信噪比。
 - **第三部分：结果分析**（第 8—13 页）  
   按论文第 3 章和第 4 章展开，先讲气候变化信号，再讲 ToE 与信噪比。
-- **第四部分：结论与展望**（第 14—16 页）  
-  将层级对比纳入结论，最后讲不足、展望和致谢。
+- **第四部分：结论与展望**（第 14—17 页）  
+  将层级对比纳入结论，最后讲不足、展望、参考文献和致谢。
 
 ---
 
@@ -39,6 +39,7 @@
 - 四、结论与展望
   - 主要结论
   - 不足与展望
+  - 参考文献
 
 **讲述重点**：告诉老师本次汇报不是按论文逐字展开，而是围绕“研究背景和研究意义—数据方法—结果分析—结论展望”四个部分组织。  
 **论文依据**：论文目录结构：1 引言、2 数据和方法、3 SSP3-7.0 情景下海洋变化的时空格局、4 气候变化信号出现时间及其信噪比特征、5 结论与不足。
@@ -221,7 +222,28 @@
 
 ---
 
-## 第 16 页：致谢（约 10 秒）
+## 第 16 页：参考文献（约 15 秒）
+- [1] VEAL A J. Climate change 2021: the physical science basis, 6th report[J]. World Leisure Journal, 2021, 63(4): 443-444.
+- [2] MINGLE J. IPCC Special Report on the Ocean and Cryosphere in a Changing Climate[J]. New York Review of Books, 2020, 67(8): 49-51.
+- [3] GRUBER N. Warming up, turning sour, losing breath: ocean biogeochemistry under global change[J]. Philosophical Transactions of the Royal Society A, 2011, 369(1943): 1980-1996.
+- [4] DONEY S, RUCKELSHAUS M, DUFFY J, et al. Climate Change Impacts on Marine Ecosystems[M]//Annual Review of Marine Science, Vol 4. 2012: 11-37.
+- [7] HAWKINS E, SUTTON R. Time of emergence of climate signals[J]. Geophysical Research Letters, 2012, 39(6).
+- [8] KELLER K, JOOS F, RAIBLE C. Time of emergence of trends in ocean biogeochemistry[J]. Biogeosciences, 2014, 11(13): 3647-3659.
+- [9] RODGERS K, LIN J, FRÖLICHER T. Emergence of multiple ocean ecosystem drivers in a large ensemble suite with an Earth system model[J]. Biogeosciences, 2015, 12(11): 3301-3320.
+- [10] HENSON S, BEAULIEU C, ILYINA T, et al. Rapid emergence of climate change in environmental drivers of marine ecosystems[J]. Nature Communications, 2017, 8.
+- [15] SCHLUNEGGER S, RODGERS K, SARMIENTO J, et al. Time of Emergence and Large Ensemble Intercomparison for Ocean Biogeochemical Trends[J]. Global Biogeochemical Cycles, 2020, 34(8).
+- [26] DANABASOGLU G, LAMARQUE J F, BACMEISTER J, et al. The Community Earth System Model Version 2 (CESM2)[J]. Journal of Advances in Modeling Earth Systems, 2020, 12(2).
+- [27] LONG M C, MOORE J K, LINDSAY K, et al. Simulations With the Marine Biogeochemistry Library (MARBL)[J]. Journal of Advances in Modeling Earth Systems, 2021, 13(12).
+- [28] KRUMHARDT K M, LONG M C, PETRIK C M, et al. From nutrients to fish: Impacts of mesoscale processes in a global CESM-FEISTY eddying ocean model framework[J]. Progress in Oceanography, 2024, 227.
+- [34] DE LUZINAIS V G, DU PONTAVICE H, REYGONDEAU G, et al. Trophic amplification: A model intercomparison of climate driven changes in marine food webs[J]. PLOS ONE, 2023, 18(8).
+- [36] LOTZE H K, TITTENSOR D P, BRYNDUM-BUCHHOLZ A, et al. Global ensemble projections reveal trophic amplification of ocean biomass declines with climate change[J]. Proceedings of the National Academy of Sciences, 2019, 116(26): 12907-12912.
+
+**讲述重点**：这一页不逐条念，只说明 PPT 中引用的文献主要包括三类：气候变化与海洋生态影响、ToE 方法与海洋生物地球化学应用、CESM2/MARBL/CESM-FEISTY 数据和营养级放大研究。完整逐页引用位置见《PPT参考文献与逐页引用说明.md》。  
+**论文依据**：论文参考文献 [1]—[4]、[7]—[10]、[15]、[26]—[28]、[34]、[36]。
+
+---
+
+## 第 17 页：致谢（约 5 秒）
 - 敬请各位老师批评指正。
 
 **讲述重点**：简洁结束，不展开私人致谢内容。  
@@ -236,7 +258,8 @@
 - 第 8—10 页：3:55—6:10，论文第 3 章结果，讲气候变化信号本身。
 - 第 11—13 页：6:10—8:20，论文第 4 章结果，讲 ToE、信噪比和区域差异。
 - 第 14 页：8:20—9:30，集中讲主要结论和层级传递机制。
-- 第 15—16 页：9:30—10:00，讲不足、展望和致谢。
+- 第 15 页：9:30—9:45，讲不足与展望。
+- 第 16—17 页：9:45—10:00，展示参考文献并致谢。
 
 ## 来源对照
 - 第 3 页：论文 1.1 节。
@@ -251,3 +274,5 @@
 - 第 12 页：论文 4.2 节、图 4-3、图 4-4。
 - 第 13 页：论文 4.3 节、图 4-5、图 4-6。
 - 第 14—15 页：论文第 5 章。
+- 第 16 页：论文参考文献。
+- 第 17 页：答辩结束页表达需要。
